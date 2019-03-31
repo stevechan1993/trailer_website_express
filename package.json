@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.12.3",
+    "express": "~4.12.3",
+    "jade": "~1.9.2",
+    "moment": "~2.10.2",
+    "mongoose": "~4.0.2",
+    "underscore": "~1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "stevechan",
+  "license": "ISC"
+}
